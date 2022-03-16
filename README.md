@@ -15,7 +15,7 @@ transactions.csv columns description:
 - sum - sum of transaction
 
 
-I. Explore the dataset. Do the descriptive statistics.
+I. Explore the dataset. Do the descriptive statistics. <br>
 II. Explanatory data analysis. Exploring the features, visualizations etc. 
 III. Feature engineering. Encodings, generating the features from date-time, sum and
 from other columns.
