@@ -16,11 +16,11 @@ transactions.csv columns description:
 
 
 I. Explore the dataset. Do the descriptive statistics. <br>
-II. Explanatory data analysis. Exploring the features, visualizations etc. 
+II. Explanatory data analysis. Exploring the features, visualizations etc. <br>
 III. Feature engineering. Encodings, generating the features from date-time, sum and
-from other columns.
+from other columns.<br>
 IV. Unsupervised learning. Do the Cluster analysis. Segment the customers. K-means,
 Hierarchical Clustering. With different metrics, linkages. Visualize the clusters etc.
-Look for the optimal number of the clusters
-V. Analyzing the results.
+Look for the optimal number of the clusters<br>
+V. Analyzing the results.<br>
 VI. Conclusion.
